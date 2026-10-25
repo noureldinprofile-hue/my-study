@@ -1,10 +1,21 @@
 const translations = {
- ar: {
+ar: {
   brand:"البحث",navAbout:"عن البحث",navDownload:"تحميل البحث",eyebrow:"بحث تعليمي • نسختان متاحتان",
   heroTitle:'التحديات التي تواجه الطلاب في العملية التعليمية <em>وطرق التغلب عليها</em>',
-  heroDesc:"صانع البحث : نورالدين محمود نصار ",
+  heroDesc:"صفحة مخصصة لتحميل بحثك، مع اختيار النسخة العربية أو الإنجليزية بسهولة من الهاتف أو الكمبيوتر.",
   heroCta:"تحميل البحث",learnMore:"عن الموقع",metaLanguages:"العربية والإنجليزية",metaFormat:"ملفات PDF",
   chipReady:"جاهز للتحميل",arabicVersion:"النسخة العربية",docTitle:"بحثك الدراسي",docSubtitle:"نسخة جاهزة للتحميل",chipBilingual:"متاح بلغتين",
+  heroBottom:"بحثك، بلغتك، في أي وقت.",sectionKicker:"عن الموقع",aboutTitle:"كل نسخ بحثك في مكان واحد",
+  aboutDesc:"أنشأت هذه الصفحة لتسهيل الوصول إلى بحثك. ملفات البحث نفسها لن تُعدّل؛ أضف ملفي PDF الخاصين بك وسيتمكن الزوار من تنزيلهما.",
+  feature1Title:"النسخة العربية",feature1Desc:"رابط مباشر لتنزيل ملف البحث باللغة العربية بصيغة PDF.",
+  feature2Title:"English version",feature2Desc:"A direct download for your English PDF study.",
+  feature3Title:"متوافق مع كل الشاشات",feature3Desc:"تصميم يتكيّف مع الهواتف والأجهزة اللوحية واللابتوب.",
+  feature4Title:"لغتان بسهولة",feature4Desc:"بدّل لغة واجهة الموقع بين العربية والإنجليزية بضغطة واحدة.",
+  downloadKicker:"ملفات البحث",downloadTitle:"اختر اللغة وحمّل نسختك",
+  downloadDesc:"استخدم أزرار التحميل لتنزيل ملفك. قبل نشر الموقع، ضع ملفات PDF الأصلية في مجلد pdfs بالأسماء الموضحة في ملف README.",
+  downloadNote:"ملفات PDF غير مرفقة بعد؛ أضف ملفاتك الأصلية ليعمل التحميل.",arabicLabel:"اللغة العربية",
+  arabicFileTitle:"بحث التحديات — عربي",englishLabel:"اللغة الإنجليزية",englishFileTitle:"Student Challenges — English",
+  pdfFormat:"مستند PDF",downloadButton:"تحميل",quote:"التعلّم يبدأ عندما تصبح المعرفة في متناول الجميع.",
   footerText:"صفحة بسيطة للوصول إلى بحثك الدراسي.",copyright:"جميع الحقوق محفوظة"
  },
  en: {
